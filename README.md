@@ -4,3 +4,6 @@
 
 ### Link to List Comprehension notebook on colab
 https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/List-Comprehensions.ipynb
+
+### Link to generators and lazy evaluation
+https://colab.research.google.com/github/neuefische/ds-meetups/blob/lazy_notebook/generators_and_lazy_evaluation.ipynb
