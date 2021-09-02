@@ -6,4 +6,4 @@
 https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/List-Comprehensions.ipynb
 
 ### Link to generators and lazy evaluation
-https://colab.research.google.com/github/neuefische/ds-meetups/blob/lazy_notebook/generators_and_lazy_evaluation.ipynb
+https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/generators_and_lazy_evaluation.ipynb
