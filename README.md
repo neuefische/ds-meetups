@@ -1,5 +1,6 @@
 # Neuefische Meetups
 
+![Python workshop, revisiting some fundamentals](images/Python_fundamentals.jpeg)
 This repository contains the material for our meetup workshop **"Revisiting Python Fundamentals" on 2/9/21**
 
 This 2h workshop is aimed at people who have already gathered their first experience in python. Hopefully we can find something beneficial in pythons fundamentals that you don’t normally use because you forgot about or just never knew it existed.
