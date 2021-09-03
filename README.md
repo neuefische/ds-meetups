@@ -8,8 +8,12 @@ In this workshop we covered three python fundamentals:
 - the three ways to copy objects in Python
 - generators
 
-For each of the topics we have created notebooks, that are stored in this repository. 
-Witch the links below, you can quite easily run them online in google colab.
+## Materials
+
+We have added our [Revisit Python Fundamentals Presentation](Presentation_Revisit_Python_Fundamentals.pdf) if you would like to revisit it.
+
+For each of the topics we have also created notebooks, that are stored in this repository. 
+With the links below, you can quite easily run them online in google colab.
 
 If you want to run them locally on your computer, checkout the requirements.
 
