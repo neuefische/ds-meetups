@@ -13,13 +13,13 @@ We have added our [Web Scraping with Beautiful Soup Presentation](Presentation_W
 For both topics we have also created notebooks, that are stored in this repository.
 With the links below, you can quite easily run them online in google colab.
 
-### Link to HTML Basics Notebooks
+### Link to HTML Basics Notebook
 
-...
+https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/02_Web_Scraping_With_Beautiful_Soup/01_HTML_Basics.ipynb
 
-### Link to Web Scraping with Beautiful Soup Notebooks
+### Link to Web Scraping with Beautiful Soup Notebook
 
-...
+https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/02_Web_Scraping_With_Beautiful_Soup/02_webscraping_bs4.ipynb
 
 ## Requirements
 

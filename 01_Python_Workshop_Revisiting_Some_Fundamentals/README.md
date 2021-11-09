@@ -22,19 +22,19 @@ If you want to run them locally on your computer, checkout the requirements.
 
 ### Link to List Comprehension notebook on colab
 
-https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/List-Comprehensions.ipynb
+https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/01_Python_Workshop_Revisiting_Some_Fundamentals/List-Comprehensions.ipynb
 
 ### Link to Copying in python notebook on colab
 
-https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/Copying.ipynb
+https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/01_Python_Workshop_Revisiting_Some_Fundamentals/Copying.ipynb
 
 ### Link to Copying Exercise notebook on colab
 
-https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/Copying_Exercises.ipynb
+https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/01_Python_Workshop_Revisiting_Some_Fundamentals/Copying_Exercises.ipynb
 
 ### Link to generators and lazy evaluation
 
-https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/generators_and_lazy_evaluation.ipynb
+https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/01_Python_Workshop_Revisiting_Some_Fundamentals/generators_and_lazy_evaluation.ipynb
 
 ## Requirements
 
