@@ -1,0 +1,4 @@
+- ipykernel
+- numpy
+- pandas
+- beautifulsoup4
