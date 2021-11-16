@@ -26,3 +26,7 @@ https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/02_Web_
 If you want to run these notebooks locally, make sure you're using **Python 3**.
 
 The required Python libraries that are needed are listed in the [requirements.txt file](requirements.txt).
+
+## Recording
+
+We recorded the event and you can find the video on our [neuefische youtube channel](https://www.youtube.com/watch?v=HMSe8WTNmFg).
