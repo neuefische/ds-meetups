@@ -1,5 +1,5 @@
-- ipykernel
-- numpy
-- pandas
-- beautifulsoup4
-- requests
+jupyter
+numpy
+pandas
+beautifulsoup4
+requests
