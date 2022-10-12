@@ -19,7 +19,7 @@ https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/02_Web_
 
 ### Link to collaborative filtering notebook
 
-[https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/02_Web_Scraping_With_Beautiful_Soup/02_webscraping_bs4.ipynb](https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/03_Recommender_Introduction/02_collaborative_filtering.ipynb)
+[https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/03_Recommender_Introduction/02_collaborative_filtering.ipynb](https://colab.research.google.com/github/neuefische/ds-meetups/blob/main/03_Recommender_Introduction/02_collaborative_filtering.ipynb)
 
 ## Requirements
 
