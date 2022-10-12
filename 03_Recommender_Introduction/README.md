@@ -15,7 +15,7 @@ With the links below, you can quite easily run them online in google colab.
 
 ### Link to content-based model notebook 
 
-https://colab.research.google.com/github.com/neuefische/ds-meetups/blob/main/03_Recommender_Introduction/01_content_based.ipynb](https://github.com/neuefische/ds-meetups/blob/main/03_Recommender_Introduction/01_content_based.ipynb)
+[https://colab.research.google.com/github.com/neuefische/ds-meetups/blob/main/03_Recommender_Introduction/01_content_based.ipynb](https://github.com/neuefische/ds-meetups/blob/main/03_Recommender_Introduction/01_content_based.ipynb)
 
 ### Link to collaborative filtering notebook
 
