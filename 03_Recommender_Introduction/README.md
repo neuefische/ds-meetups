@@ -8,7 +8,7 @@ This 2h workshop is aimed at people who have already gathered first experiences 
 
 ## Materials
 
-We have added our [Introduction to recommender systems presentation]() if you would like to revisit it.
+We have added our [Introduction to recommender systems presentation](https://github.com/neuefische/ds-meetups/blob/main/03_Recommender_Introduction/recommender_meetup.pdf) if you would like to revisit it.
 
 For both topics we have also created notebooks, that are stored in this repository.
 With the links below, you can quite easily run them online in google colab.
