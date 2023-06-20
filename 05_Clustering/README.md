@@ -18,7 +18,7 @@ To set up the environment for running the workshop notebooks, you can follow the
 
 ```bash
 git clone git@github.com:neuefische/ds-meetups.git
-cd ds-meetups/04_Clustering
+cd ds-meetups/05_Clustering
 ```
 2. Install pyenv using your preferred method (refer to the official pyenv documentation). (Only do this if necessary)
 
