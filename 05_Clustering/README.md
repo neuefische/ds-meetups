@@ -6,7 +6,7 @@ This 1.5h workshop is aimed at people who have already gathered first experience
 
 
 ## Materials
-We have added our [presentation](A_practical_approach_to_clustering.pdf) if you would like to revisit it.
+We have added our [presentation](Clustering_meetup_slides.pdf) if you would like to revisit it.
 
 The workshop also includes two notebooks. With the links below, you can run them online in Google Colab.
 
